@@ -1,0 +1,20 @@
+{
+  "name": "terror",
+  "version": "1.0.0",
+  "description": "Algumas historias de terror onde você pode publicar a sua experiencias fantasmagorica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-Muller-Dev/historia_terror.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-Muller-Dev/historia_terror/issues"
+  },
+  "homepage": "https://github.com/Matheus-Muller-Dev/historia_terror#readme"
+}
